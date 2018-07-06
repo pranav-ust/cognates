@@ -1,6 +1,6 @@
 # Alignment Analysis of Sequential Segmentation of Lexicons to Improve Automatic Cognate Detection
 
-Github repository for my ACL-SRW paper. Currently adding code and notebookes to this repository.
+Github repository for my ACL-SRW paper. Currently adding code and notebooks to this repository.
 
 ## Code explanations with notebooks
 
