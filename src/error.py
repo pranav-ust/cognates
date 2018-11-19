@@ -1,6 +1,6 @@
 from math import ceil, floor
-from shingle import *
-from graph import *
+from src.shingle import *
+from src.graph import *
 
 port_ro_cog = dict()
 port_ro_noncog = dict()

@@ -1,4 +1,4 @@
-from shingle import *
+from src.shingle import *
 from math import ceil, floor
 import numpy as np
 
