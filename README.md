@@ -6,6 +6,16 @@ Github repository for my ACL-SRW paper. Currently adding code and notebooks to t
 
 You need Python 3 and Numpy for this.
 
+## Datasets
+
+Currently this takes cognates from four languages:
+* Spanish
+* Portuguese
+* French
+* Italian
+
+You can find training, testing and lexicons in the `data` folder.
+
 ## Code explanations with notebooks
 
 You will need Python 3 to run the notebooks.
