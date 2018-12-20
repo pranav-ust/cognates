@@ -1,6 +1,8 @@
 # Alignment Analysis of Sequential Segmentation of Lexicons to Improve Automatic Cognate Detection
 
-Github repository for my ACL-SRW paper. Currently adding code and notebooks to this repository.
+Github repository for my ACL-SRW paper. My paper looks into the problem of finding a cognate from a search space of a lexicon list. I approached the solution by creating a ranker function consisting of two modules: shingle similarity function and graphical error modelling function. 
+
+![Poster](https://github.com/pranav-ust/cognates/blob/master/utils/poster.jpg)
 
 ## Requirements
 
@@ -29,3 +31,21 @@ You will need Python 3 to run the notebooks.
 ## Demo
 
 Simply run `python3 demo.py` to demonstrate results from portuguese cognates.
+
+## Citation
+
+If you find this useful, then please cite my work:
+
+```
+@InProceedings{P18-3019,
+  author = 	"A, Pranav",
+  title = 	"Alignment Analysis of Sequential Segmentation of Lexicons to Improve Automatic Cognate Detection",
+  booktitle = 	"Proceedings of ACL 2018, Student Research Workshop",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"134--140",
+  location = 	"Melbourne, Australia",
+  url = 	"http://aclweb.org/anthology/P18-3019"
+}
+
+```
